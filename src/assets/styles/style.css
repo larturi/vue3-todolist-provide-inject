@@ -1,0 +1,22 @@
+body {
+    background: #191919;
+}
+
+h1, h2, h3 {
+    color: #933de0;
+}
+
+p {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #933de0;
+    border-color: #933de0;
+}
+
+.alert-warning {
+    background-color: #933de0;
+    border-color: #933de0;
+    border-radius: 0;
+}
